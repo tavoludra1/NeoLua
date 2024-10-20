@@ -1,3 +1,5 @@
+![NEOLUA](neolua3.png)
+
 # NeoLua
 
 **Building Neural Networks from Scratch in Lua**
